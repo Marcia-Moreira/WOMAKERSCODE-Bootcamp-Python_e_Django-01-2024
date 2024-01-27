@@ -1,0 +1,94 @@
+Anotações Gerais - BootCamp WoMakersCode 01-2024 
+
+Python e Django
+
+------------------------------------------------------------------------------------------------
+
+Olá! Tudo bem?
+
+Desejamos boas vindas ao Bootcamp Back-end Python e Django! Estamos felizes em começar o ano contribuindo com a sua jornada na tecnologia! 🎉
+
+Para te ajudar na maratona de aprendizado, preparamos instruções para você:
+
+Aula inaugural
+Amanhã (03/01), às 19h30, teremos a nossa primeira aula em que iremos explicar o funcionamento do bootcamp e sessão de networking com a turma! 
+
+Todas as aulas do período 03/01/2024 a 14/03/2024 irão utilizar SEMPRE o mesmo link da sala de aula: https://bit.ly/Sala-Python-Turma2
+
+Plataforma maismulheres.tech
+É na nossa plataforma que você encontrará os conteúdos do seu bootcamp, além de outros cursos gratuitos.
+
+Você vai encontrar nela:
+- Gravações das aulas ao vivo;
+- Aulas gravadas;
+- Slides e materiais utilizados nas aulas;
+- Atividades obrigatórias.
+
+Recomendamos que você já assista o módulo "Seja bem-vinda" para saber como será o bootcamp e levar as suas dúvidas para respondermos na aula inaugural. 
+
+🔹Segue o passo a passo para acessar:
+Faça login na plataforma maismulheres.tech;
+
+Clique em "Meu painel";
+
+Acesse o curso "Turma 2 | Bootcamp Back-end Python e Django
+
+Pronto! Agora você já pode iniciar as lições do curso!
+
+Você também pode acessar os conteúdos do bootcamp clicando aqui.
+
+Discord
+O Discord é a nossa plataforma oficial de comunicação e a sua presença é obrigatória em nosso servidor. É fundamental que você siga as instruções abaixo para acessar o nosso servidor:
+
+Ao acessar o nosso servidor, você deve criar uma conta gratuita. O seu nome de usuário deve ter seu nome Completo;
+Escreva no canal #🤟┃boas-vindas a seguinte mensagem: "Sou aluna da turma 2 Bootcamp Back-end Python e Django". Iremos colocar você no canal privado somente para a turma.
+O link para acesso ao nosso servidor no Discord é: https://discord.gg/CUwvHdq7
+
+Qualquer dúvida, estamos à disposição!
+
+Bons estudos! 📚
+
+------------------------------------------------------------------------------------------------
+Minha Carreira Profissional (Linha do Tempo)
+
+   Curso X          faculdade Y
+--------------------------------------------------
+          Curso Y          carreira em Z
+------------------------------------------------------------------------------------------------
+Python
+Python em framework
+Matemática Básica
+Lógica
+Treinar Muito
+------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------
+
