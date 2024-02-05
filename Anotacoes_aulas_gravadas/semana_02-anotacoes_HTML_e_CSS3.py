@@ -64,7 +64,7 @@
 # * Aula 04: Principais Tags
 
 # <!DOCTYPE html>
-# ?indica a versão htmp mais atualizada
+# ?indica a versão html mais atualizada
 # <html>
 # ?contem as tags html da página inteira
 #     <head>

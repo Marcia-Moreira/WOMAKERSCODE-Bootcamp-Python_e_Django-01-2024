@@ -256,13 +256,42 @@ O seu total de calorias queimadas no mês é de 7200.
 # ====================================================================
 # ! EXERCÍCIO 10:
 '''
-FaçaumProgramaqueutilize4variáveiscomopreferirenofinalprintumamensagemamigávelutilizandoasvariáveiscriadas.Exemplosdevariáveis:nome,idade,lugar,profissão....Exemploderetorno:OláMaria,prazerteconhecer.SoudeSãoPaulotambémeestoumigrandodeárea.Lembrandoqueparaoretornovamosusarprintcomasvariáveiscriadaseestetextoésomenteumexemplo,utilizemacriatividade.
+Faça um Programa que utilize 4 variáveis como preferir e no final print uma mensagem amigável utilizando as variáveis criadas. Exemplos de variáveis: nome, idade, lugar, profissão.... Exemplo de retorno: Olá Maria,prazer te conhecer. Sou de São Paulo também eestou migrando de área.Lembrando que para o retorno vamos usar print com as variáveis criadas e este texto é somente um exemplo, utilizem a criatividade.
 '''
 
+# ? RESPOSTA:
+print("Resposta do Exercício 10: ")
+# Imput de Dados pelo usuário:
+
+# Seu nome / de onde é? / o que está estudando? / está procurando emprego?
+nome_01 = input("Qual é o seu nome? ")
+natural = input("De onde você é? ")
+estuda = input("O que está estudando? ")
+emprego = int(input("Quantos anos você tem? "))
+
+# Operações:
+# concatenação de frases e variáveis
+
+# Imprimir no Terminal:
+print (f'Oi {nome_01}, prazer! Vejo aqui que você é do {natural}, estuda {estuda} e tem {emprego} anos nesse momento!')
+
+# RESPOSTA NO TERMINAL:
+'''
+Resposta do Exercício 10: 
+Qual é o seu nome? Marcia
+De onde você é? Rio de Janeiro
+O que está estudando? Programação
+Quantos anos você tem? 42
+Oi Marcia, prazer! Vejo aqui que você é do Rio de Janeiro, estuda Programação e tem 42 anos nesse momento!
+'''
+
+# ====================================================================
+# ! EXERCÍCIO 11:
+'''
+'''
 # ? RESPOSTA:
 print("Resposta do Exercício 10: ")
 # Imput de Dados pelo usuário:
 # Operações:
 # Imprimir no Terminal:
 # RESPOSTA NO TERMINAL:
-
