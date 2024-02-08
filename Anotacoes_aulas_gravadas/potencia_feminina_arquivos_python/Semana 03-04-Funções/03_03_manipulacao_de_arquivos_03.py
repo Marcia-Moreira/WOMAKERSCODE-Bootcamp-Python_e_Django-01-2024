@@ -13,6 +13,7 @@ print("=========================================================================
 def multiplicacao_funcao():
     multiplicacao = 10*3
     file = 'arquivo.txt' #crie efetivamente o arquivo na mesma pasta do código py
+    #! Não esta gravando nada no arquivo!!!
     
     #? Escrevendo:
     #? OPEN para escrita "w"
@@ -42,7 +43,6 @@ multiplicacao_funcao() # Chamada da Função
 
 '''
 RESULTADO NO CONSOLE:
-
 
 mmnol@Galaxy-Book-MM-13062023 MINGW64 /c/Projetos_MM/MM_Estudo-Testes
 $ C:/Users/mmnol/AppData/Local/Programs/Python/Python312/python.exe c:/Projetos_MM/MM_Estudo-Testes/03_manipulacao_de_arquivos.py        

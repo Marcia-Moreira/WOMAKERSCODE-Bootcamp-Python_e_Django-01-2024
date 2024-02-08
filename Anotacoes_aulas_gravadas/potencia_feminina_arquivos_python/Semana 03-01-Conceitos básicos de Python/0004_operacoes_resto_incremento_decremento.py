@@ -29,6 +29,11 @@ valor_soma = 5
 valor_soma + 1
 print(valor_soma)
 
+'''
+ChatGPT para explicar o Código Acima:
+Resumindo, este código imprime "Soma Normal: + " no console e, em seguida, imprime o valor da variável valor_soma, que é 5. A operação de soma valor_soma + 1 na linha 3 não tem efeito na variável valor_soma, pois o resultado não é armazenado ou impresso.
+'''
+
 print("Soma Incremento: += ")
 valor_incremento = 5
 valor_incremento += 1

@@ -5,9 +5,6 @@ consegue resgatar nossa conversa anterior? fechou do nada
 ChatGPT
 Infelizmente, eu não tenho a capacidade de lembrar ou acessar informações sobre conversas anteriores. Cada interação é tratada de forma isolada para garantir a privacidade e a segurança das informações dos usuários. Se tiver alguma pergunta ou tópico específico que gostaria de discutir, sinta-se à vontade para compartilhar, e eu ficarei feliz em ajudar!
 
-
-
-
 User
 "O programa deve calcular e apresentar a quantidade de números pares e ímpares inseridos.O processo de leitura deve ser encerrado quando o usuário informar o valor zero.
 
@@ -102,9 +99,6 @@ Essa abordagem é mais concisa e facilita a leitura do código, evitando múltip
 '''
 
 # ==========================================================================
-
-
-
 
 '''
 Claro que sim, posso te ajudar com isso. Aqui está um programa em Python que lê três números inteiros e os mostra em ordem crescente:
