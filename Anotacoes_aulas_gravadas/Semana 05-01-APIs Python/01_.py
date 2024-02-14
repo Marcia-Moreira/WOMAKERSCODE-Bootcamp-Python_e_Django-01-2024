@@ -1,5 +1,14 @@
 # APIs
 
+'''
+Links das Aulas:
+
+https://json-schema.org/
+
+
+
+'''
+
 print("=========================================================================")
 # ==============================================================================
 # ! MATERIA: ORRIENTAÇÕES - Entrega de Exercícios
@@ -277,6 +286,24 @@ print("=========================================================================
 # ! MATERIA: Criando um template
 #
 #
+'''
+app = Flask(__name__)
+
+@app.route("/")
+def get_list_chararcters_page():
+    url = "https://rickandmortyapi.com/api/character/"
+    response = urlib.request.urlopen(url)
+    data = response.read()
+    dict = json.loads(data)
+
+@app.route("/lista")
+def get_list_characters():
+    url = "https://rickandmortyapi.com/api/character/"
+    response = urlib.request.urlopen(url)
+    data = response.read()
+    dict = json.loads(data)
+
+'''
 
 '''
 RESULTADO NO CONSOLE:
