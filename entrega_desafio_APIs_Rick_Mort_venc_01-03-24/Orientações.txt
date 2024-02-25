@@ -1,0 +1,117 @@
+Link do Repositório do Grupo no GitHub:
+
+https://github.com/aparecraft/ExerciciosPython_SquadAmeenahGuribFakim/tree/main
+
+Link do Repositório Específico:
+
+https://github.com/aparecraft/ExerciciosPython_SquadAmeenahGuribFakim/tree/main/ExercicioAPIs_SquadAmeenahGuribFakim
+
+
+
+ORIENTAÇÃO:
+
+
+Faça o desafio APIs Rick e Morty no arquivo abaixo. 
+
+
+A atividade é para ser feita em squad conforme a divisão feita pela WoMakersCode. O desafio deverá ser organizado e disponibilizado através do link no github .
+
+O desafio e o vídeo de apresentação deverá ser entregue até o dia 01 de março, às 19h00.
+
+
+
+Link do formulário para disponibilizar a resolução do desafio httpsforms.gleofm4qypDkAZfhFBB7 
+
+https://forms.gle/ofm4qypDkAZfhFBB7
+
+
+Links Encontrados:
+
+https://rickandmortyapi.com/documentation/#rest 
+
+
+https://github.com/curiousrohan/ramapi
+
+******************************************************************
+Orientações Gemini:
+
+Exercício: API Rick and Morty com Flask
+Objetivo: Aprimorar o projeto Flask existente para consumir a API Rick and Morty, adicionando novas funcionalidades e melhorando a página de perfil do personagem.
+
+Tarefas:
+
+Nova rota para listar locações:
+
+Rota: /locations
+Template: locations.html
+Tabela com: nome, tipo e dimensão
+Link para página de perfil da localização
+Nova rota para listar episódios:
+
+Rota: /episodes
+Template: episodes.html
+Tabela com: nome, data de lançamento e código
+Link para página de perfil do episódio
+Nova rota para perfil da localização:
+
+Rota: /location/<id>
+Template: location.html
+Informações: nome, tipo, dimensão e lista de personagens
+Link para página de perfil do personagem
+Nova rota para perfil do episódio:
+
+Rota: /episode/<id>
+Template: episode.html
+Informações: nome, data de lançamento, código e lista de personagens
+Link para página de perfil do personagem
+Aprimorar página de perfil do personagem:
+
+Adicionar: espécie, gênero, origem e localização
+Links para páginas de perfil de origem e localização
+Links para episódios em que o personagem aparece
+Recursos:
+
+Documentação da API Rick and Morty: https://rickandmortyapi.com/documentation/#rest
+Código do projeto inicial: [URL inválido removido]
+Etapas:
+
+Planejamento:
+
+Definir estrutura de pastas e arquivos para as novas rotas e templates.
+Planejar lógica para recuperar dados da API e formatar para as páginas.
+Desenvolvimento:
+
+Criar as novas rotas no Flask.
+Criar os templates HTML para as novas páginas.
+Implementar a lógica para recuperar dados da API e renderizar as páginas.
+Testar as novas funcionalidades.
+Deploys:
+
+Atualizar o código no GitHub.
+Atualizar o ambiente de produção (se houver).
+Dicas:
+
+Utilize o template engine Jinja2 para renderizar as páginas dinamicamente.
+Utilize a biblioteca requests para fazer requisições à API.
+Utilize o debugger do navegador para identificar e corrigir erros.
+Faça testes com diferentes IDs para garantir que as rotas e templates estejam funcionando corretamente.
+Recursos Adicionais:
+
+Tutoriais Flask: https://flask.palletsprojects.com/en/2.2.x/quickstart/
+Tutoriais API Rick and Morty: [URL inválido removido]
+Documentação Jinja2: [URL inválido removido]
+Observações:
+
+Este exercício é um guia para te ajudar a implementar as funcionalidades. Você pode adaptá-lo à sua necessidade e conhecimento.
+A documentação da API e do Flask fornece informações detalhadas sobre como usar essas ferramentas.
+Utilize os recursos online e a comunidade de desenvolvedores para obter ajuda e solucionar problemas.
+Espero que este guia te ajude a completar o exercício com sucesso!
+
+Lembre-se:
+
+Se você tiver dúvidas, fique à vontade para perguntar.
+Compartilhe seu progresso e peça feedback para melhorar seu código.
+Continue aprendendo e explorando novas funcionalidades para aprimorar seu projeto.
+Boa sorte!
+
+************************************************************

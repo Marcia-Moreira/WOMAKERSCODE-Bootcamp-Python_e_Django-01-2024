@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+<!-- Parte do body 01 (recheio diferente) -->
+{% block content %}
+<div class="row">
+    <!-- Bloco de código que será consumido pela API -->
+    <!-- Laço de Repetição de Template - 1 para cada personagem -->
+    {% for character in characters %}
+    <!-- <div class="col-3 col-xs-4"> -->
+        <div class="col-sm-3 col-6">
+
+            <!-- Parece mensão do Copilot -->
+            <img src="{{character.image}}" alt="{{character.name}}" class="img-thumbnail"/>
+
+            <h3 class="h5">{{character.name}}</h3>
+            <p>
+                <!-- REVER FORMAS DE CARREGAMENTO DO FLASK: -->
+                <!-- <a href="{{url_for('profile', id=character.id)}}" class="btn btn-primary">Ver perfil</a>  -->
+                <!-- <a href="#" class="btn btn-primary">Ver perfil</a> -->
+                <a href="{{ url_for('get_profile', id=character['id']) }}">{{ character['name'] }}</a>
+                <!-- <a href="/profile/{{character.id}}" class="btn btn-primary">Ver perfil</a> -->
+
+                <!-- Não está funcionando!!! -->
+            </p>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}

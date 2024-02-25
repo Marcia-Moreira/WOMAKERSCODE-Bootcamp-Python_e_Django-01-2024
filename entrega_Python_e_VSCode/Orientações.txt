@@ -1,0 +1,16 @@
+[Opcional] Explore o espaço com o Python e o Visual Studio Code
+
+Ativar tela cheia
+
+Realize o desafio 5:  Explore o espaço com o Python e o Visual Studio Code:
+
+
+https://learn.microsoft.com/pt-br/training/paths/explore-space-using-python/
+
+Leva para:
+
+https://learn.microsoft.com/pt-br/training/paths/explore-space-using-python/ 
+
+
+
+

@@ -1,0 +1,12 @@
+
+
+
+Ativar VENV 
+
+.\.venv\Scripts\activate
+
+python manage.py runserver
+
+Ativar o Servidor Local
+
+flask --app app_02 run

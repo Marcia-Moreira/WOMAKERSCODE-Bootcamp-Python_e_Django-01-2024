@@ -1,0 +1,23 @@
+[OPCIONAL] Utilizando Flask para criar um web app com IA
+
+
+Ativar tela cheia
+
+Olá, alunas!
+
+Animadas para praticar um pouco mais?
+
+
+Esse exercício deve ser resolvido individualmente e a resolução do exercício deverá ser enviada até o dia 04 de março até às 19h00.
+
+
+
+Realize o desafio: Utilizando Flask para criar um web app com IA:
+https://learn.microsoft.com/pt-br/training/modules/python-flask-build-ai-web-app/
+
+
+
+FORMULÁRIO DE ENTREGA
+
+Link: https://forms.gle/5NXKPhdiJ9bwpwnQA
+
